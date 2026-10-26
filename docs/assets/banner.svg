@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">MLGA — Make Linear Great Again</title>
+  <desc id="desc">Turn a Linear issue into a running local preview: understand, build, verify, preview.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10142c"/><stop offset="1" stop-color="#1f2941"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#aaa6ff"/><stop offset="1" stop-color="#77e4c1"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7973e8" stop-opacity=".23"/><stop offset="1" stop-color="#7973e8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="960" height="300" rx="20" fill="url(#bg)"/>
+  <ellipse cx="750" cy="60" rx="290" ry="220" fill="url(#glow)"/>
+  <path d="M48 187H912" stroke="#46516e" stroke-opacity=".6"/>
+  <text x="48" y="88" fill="#f6f7ff" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">MLGA</text>
+  <text x="49" y="123" fill="#bfc7df" font-family="Arial, sans-serif" font-size="19">Make Linear Great Again</text>
+  <rect x="676" y="58" width="236" height="34" rx="17" fill="#a7a3ff" fill-opacity=".1" stroke="#8682d9" stroke-opacity=".45"/>
+  <circle cx="695" cy="75" r="4" fill="#77e4c1"/>
+  <text x="708" y="81" fill="#d6d8fa" font-family="Arial, sans-serif" font-size="13">ONE ISSUE. A WORKING APP.</text>
+  <g font-family="Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="48" y="211" width="154" height="46" rx="11" fill="#807afa" fill-opacity=".18" stroke="#807afa" stroke-opacity=".55"/>
+    <text x="75" y="240" fill="#e6e4ff">Linear issue</text>
+    <path d="M218 234h20m-5-5 5 5-5 5" fill="none" stroke="#6a7595" stroke-width="2"/>
+    <rect x="254" y="211" width="188" height="46" rx="11" fill="#ffffff" fill-opacity=".04" stroke="#46516e"/>
+    <text x="279" y="240" fill="#d3daef">Understand &amp; plan</text>
+    <path d="M458 234h20m-5-5 5 5-5 5" fill="none" stroke="#6a7595" stroke-width="2"/>
+    <rect x="494" y="211" width="176" height="46" rx="11" fill="#ffffff" fill-opacity=".04" stroke="#46516e"/>
+    <text x="520" y="240" fill="#d3daef">Build &amp; verify</text>
+    <path d="M686 234h20m-5-5 5 5-5 5" fill="none" stroke="#6a7595" stroke-width="2"/>
+    <rect x="722" y="211" width="190" height="46" rx="11" fill="#77e4c1" fill-opacity=".12" stroke="#77e4c1" stroke-opacity=".55"/>
+    <text x="751" y="240" fill="#a1f2d9">Local preview ↗</text>
+  </g>
+  <rect x="48" y="153" width="92" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

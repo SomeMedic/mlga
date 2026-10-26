@@ -1,0 +1,18 @@
+{
+  "name": "mlga",
+  "version": "1.0.0",
+  "description": "Take a Linear issue from clarification to a verified, running local application.",
+  "author": {
+    "name": "SomeMedic",
+    "url": "https://github.com/SomeMedic"
+  },
+  "homepage": "https://github.com/SomeMedic/mlga",
+  "repository": "https://github.com/SomeMedic/mlga",
+  "license": "MIT",
+  "keywords": [
+    "linear",
+    "agent-skills",
+    "local-development",
+    "workflow"
+  ]
+}

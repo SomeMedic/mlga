@@ -1,0 +1,4 @@
+interface:
+  display_name: "MLGA · Linear to local preview"
+  short_description: "Implement a Linear issue and leave a working local preview"
+  default_prompt: "Use $mlga to read the selected Linear issue, clarify product decisions, implement it, and leave the app running locally for review."
